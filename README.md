@@ -1,4 +1,4 @@
-# 👨‍💻 Davi Seemann | Data Engineer | Full-Stack Developer
+# 👨‍💻 Davi Seemann | Data Engineer | ML Engineer
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/daviseemann/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/daviseemann)
@@ -22,74 +22,51 @@ Hi! I'm Davi, a **Data Engineer** and **Full-Stack Developer** passionate about 
 class DaviSeemann:
     def __init__(self):
         self.name = "Davi Seemann"
-        self.role = "Data & ML Engineer Developer"
+        self.role = "Data & ML Engineer"
 
-    def tech_stack(self):
-        return {
-            "Languages": ["Python", "SQL", "JavaScript (React.js)", "C/C++"],
-            "Data Engineering": [
-                "Azure Data Factory",
-                "Databricks",
-                "Spark (PySpark, SQL, Structured Streaming)",
-                "Delta Lake",
-                "Parquet",
-                "BigQuery",
-                "Kubernetes",
-                "Docker",
-            ],
-            "Cloud": [
-                "Google Cloud Platform (GCP)",
-                "Azure Data Lake Storage",
-                "MQTT (Mosquitto)",
-            ],
-            "Web Development": ["FastAPI", "React.js", "Flask", "MongoDB", "GitHub"],
-            "Other Tools": ["DevOps", "MLOps", "SAP ERP", "SAP Analytic Cloud"],
-        }
+    def languages(self):
+        return [
+            "Python",
+            "SQL",
+            "JavaScript (React.js)",
+            "C/C++"
+        ]
 
-    def portfolio(self):
-        return {
-            "Fraunhofer IPT": {
-                "role": "Junior Researcher",
-                "duration": "Jul 2023 - Jan 2024",
-                "highlights": [
-                    "Developed Full-Stack ML Apps (FastAPI, React.js)",
-                    "Physics-Informed ML Framework for production",
-                    "Consultancy on digital transformation for battery and lens manufacturing",
-                ],
-            },
-            "MobiLab Solutions": {
-                "role": "Data Engineer Intern",
-                "duration": "Feb 2024 - Apr 2024",
-                "highlights": [
-                    "Developed ELT pipelines for data integration (Azure, Databricks)",
-                    "Handled data processing with Spark and Delta Lake",
-                ],
-            },
-            "Eletrobras": {
-                "role": "Maintenance Data Analyst (Intern)",
-                "duration": "Dec 2022 - Apr 2023",
-                "highlights": [
-                    "Implemented dashboards for equipment monitoring (SAC)",
-                    "Developed diagnostic models for substation equipment",
-                ],
-            },
-            "TCC (UFSC)": {
-                "role": "Undergraduate Thesis",
-                "duration": "Apr 2024 - Jun 2024",
-                "highlights": [
-                    "Built real-time data platform using MQTT and GCP",
-                    "Used Kubernetes, BigQuery, Docker, MQTT Mosquitto",
-                ],
-            },
-        }
+    def data_engineering(self):
+        return [
+            "Azure Data Factory",
+            "Databricks",
+            "Spark (PySpark, SQL, Structured Streaming)",
+            "Delta Lake",
+            "Parquet",
+            "BigQuery",
+            "Kubernetes",
+            "Docker"
+        ]
 
+    def cloud(self):
+        return [
+            "Google Cloud Platform (GCP)",
+            "Azure Data Lake Storage",
+            "MQTT (Mosquitto)"
+        ]
 
-# Instantiate Davi's profile
-davi = DaviSeemann()
+    def web_development(self):
+        return [
+            "FastAPI",
+            "React.js",
+            "Flask",
+            "MongoDB",
+            "GitHub"
+        ]
 
-# Displaying the tech stack and portfolio (hypothetical for README, no output)
-tech_stack = davi.tech_stack()
-portfolio = davi.portfolio()
+    def other_tools(self):
+        return [
+            "DevOps",
+            "MLOps",
+            "SAP ERP",
+            "SAP Analytic Cloud"
+        ]
 
 ```
 
@@ -100,11 +77,16 @@ portfolio = davi.portfolio()
 
 ---
 
-<!-- ### 📊 GitHub Stats
+### 📊 GitHub Stats
 
-![Davi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DaviSeemann&show_icons=true&theme=radical)
+![Davi's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=daviseemann&theme=radical)
+<!-- ![Davi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DaviSeemann&show_icons=true&theme=radical)
+![Davi's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DaviSeemann&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=daviseemann&layout=compact&theme=radical)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=DaviSeemann&theme=radical) -->
 
---- -->
+
+---
 
 ### 💡 Projects
 Check out my **[Repositories](https://github.com/DaviSeemann?tab=repositories)** to explore the projects I’ve worked on!
