@@ -1,4 +1,4 @@
-# 👨‍💻 Davi Seemann | Data Engineer | ML Engineer
+# 👨‍💻 Davi Seemann | Data Engineer | Data Scientist | ML Engineer
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/daviseemann/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/daviseemann)
