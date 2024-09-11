@@ -16,66 +16,80 @@ Hi! I'm Davi, a **Data Engineer** and **Full-Stack Developer** passionate about 
 ### 🛠️ Tech Stack
 
 ```python
-# Initializing the Tech Stack and Portfolio
+# Davi Seemann - Data Engineer & Full-Stack Developer
 
-class TechStack:
+
+class DaviSeemann:
     def __init__(self):
-        self.languages = ['Python', 'SQL', 'JavaScript (React.js)', 'C/C++']
-        self.data_engineering = [
-            'Azure Data Factory', 'Databricks', 'Spark (PySpark, Spark SQL, Structured Streaming)',
-            'Delta Lake', 'Parquet', 'BigQuery', 'Kubernetes', 'Docker'
-        ]
-        self.cloud = ['Google Cloud Platform (GCP)', 'Azure Data Lake Storage', 'MQTT (Mosquitto)']
-        self.web_development = ['FastAPI', 'React.js', 'Flask', 'MongoDB', 'GitHub']
-        self.other_tools = ['DevOps', 'MLOps', 'SAP ERP', 'SAP Analytic Cloud']
-    
-    def show_stack(self):
-        # Displaying the tech stack (hypothetical for README, so no output)
-        pass
+        self.name = "Davi Seemann"
+        self.role = "Data & ML Engineer Developer"
 
-    def portfolio(self):
-        # Portfolio of experiences and projects (hypothetical)
+    def tech_stack(self):
         return {
-            'Fraunhofer IPT': {
-                'role': 'Junior Researcher',
-                'duration': 'Jul 2023 - Jan 2024',
-                'projects': [
-                    'Full-Stack ML App: Developed backend with FastAPI and frontend with React.js',
-                    'Physics-Informed ML Framework: Improved predictive models accuracy and efficiency',
-                    'Consultancy: Digital transformation impact analysis for battery and lens production'
-                ]
-            },
-            'MobiLab Solutions': {
-                'role': 'Data Engineer Intern',
-                'duration': 'Feb 2024 - Apr 2024',
-                'projects': [
-                    'ELT Pipelines: Developed data pipelines for large enterprises using Azure & Databricks',
-                    'Data Integration: Real-time data processing with Spark and Delta Lake'
-                ]
-            },
-            'Eletrobras': {
-                'role': 'Maintenance Data Analyst (Intern)',
-                'duration': 'Dec 2022 - Apr 2023',
-                'projects': [
-                    'Dashboards: Implemented interactive dashboards for monitoring equipment health',
-                    'Data Models: Developed diagnostic models for substation equipment using SAC'
-                ]
-            },
-            'TCC (UFSC)': {
-                'role': 'Undergraduate Thesis',
-                'duration': 'Apr 2024 - Jun 2024',
-                'projects': [
-                    'Real-Time Data Platform: Built platform with MQTT on Google Cloud (GCP)',
-                    'Tech Stack: Kubernetes, BigQuery, Docker, MQTT Mosquitto'
-                ]
-            }
+            "Languages": ["Python", "SQL", "JavaScript (React.js)", "C/C++"],
+            "Data Engineering": [
+                "Azure Data Factory",
+                "Databricks",
+                "Spark (PySpark, SQL, Structured Streaming)",
+                "Delta Lake",
+                "Parquet",
+                "BigQuery",
+                "Kubernetes",
+                "Docker",
+            ],
+            "Cloud": [
+                "Google Cloud Platform (GCP)",
+                "Azure Data Lake Storage",
+                "MQTT (Mosquitto)",
+            ],
+            "Web Development": ["FastAPI", "React.js", "Flask", "MongoDB", "GitHub"],
+            "Other Tools": ["DevOps", "MLOps", "SAP ERP", "SAP Analytic Cloud"],
         }
 
-# Load Davi's tech stack and portfolio
-davi_seemann_stack = TechStack()
+    def portfolio(self):
+        return {
+            "Fraunhofer IPT": {
+                "role": "Junior Researcher",
+                "duration": "Jul 2023 - Jan 2024",
+                "highlights": [
+                    "Developed Full-Stack ML Apps (FastAPI, React.js)",
+                    "Physics-Informed ML Framework for production",
+                    "Consultancy on digital transformation for battery and lens manufacturing",
+                ],
+            },
+            "MobiLab Solutions": {
+                "role": "Data Engineer Intern",
+                "duration": "Feb 2024 - Apr 2024",
+                "highlights": [
+                    "Developed ELT pipelines for data integration (Azure, Databricks)",
+                    "Handled data processing with Spark and Delta Lake",
+                ],
+            },
+            "Eletrobras": {
+                "role": "Maintenance Data Analyst (Intern)",
+                "duration": "Dec 2022 - Apr 2023",
+                "highlights": [
+                    "Implemented dashboards for equipment monitoring (SAC)",
+                    "Developed diagnostic models for substation equipment",
+                ],
+            },
+            "TCC (UFSC)": {
+                "role": "Undergraduate Thesis",
+                "duration": "Apr 2024 - Jun 2024",
+                "highlights": [
+                    "Built real-time data platform using MQTT and GCP",
+                    "Used Kubernetes, BigQuery, Docker, MQTT Mosquitto",
+                ],
+            },
+        }
 
-# Now with the portfolio method
-portfolio = davi_seemann_stack.portfolio()
+
+# Instantiate Davi's profile
+davi = DaviSeemann()
+
+# Displaying the tech stack and portfolio (hypothetical for README, no output)
+tech_stack = davi.tech_stack()
+portfolio = davi.portfolio()
 
 ```
 
