@@ -29,7 +29,6 @@ SELECT * FROM davi_tech_stack WHERE expertise_level = 'high';
 +-----------------------+------------------------------------------------------+  
 ```
 
----
 
 ## 🤝 **Let’s Connect & Collaborate!**
 
@@ -42,8 +41,4 @@ Feel free to reach out on **LinkedIn**, check out my **GitHub**, or drop me an e
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@daviseemann)  
 📧 [daviseemann@gmail.com](mailto:daviseemann@gmail.com)
 
-
----
-
-### 🚀 Let’s transform data into actionable insights and shape the future together!
-
+### 🚀 Let’s transform data into actionable insights and shape the future together
