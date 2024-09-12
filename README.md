@@ -1,98 +1,72 @@
-# 👨‍💻 Davi Seemann | Data Engineer | Data Scientist | ML Engineer
+# Hi, I'm Davi Seemann! 👋
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/daviseemann/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/daviseemann)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:daviseemann@gmail.com)
+I'm a **🌐 Data Engineer** with a passion for **🤖 Machine Learning** and **💻 Bussines**. I've worked internationally in **🇧🇷 Brazil** and **🇩🇪 Germany**, applying cutting-edge technologies to solve complex real-world problems in production environments.
 
----
-
-### 👋 About Me
-Hi! I'm Davi, a **Data Engineer** and **Full-Stack Developer** passionate about **data integration**, **automation**, and **machine learning**. With a background in **Electrical Engineering** and hands-on experience in **industry 4.0** projects, I specialize in building scalable solutions that solve complex problems.
-
-🚀 I'm driven by the intersection of **software development** and **data engineering**, with a focus on improving real-world industrial processes through digital transformation.
+![Data Engineer](https://img.shields.io/badge/-Data%20Engineer-0a7fbd?style=for-the-badge&logo=databricks&logoColor=white)
+![IOT Engineer](https://img.shields.io/badge/-IOT%20Engineer-f8c52c?style=for-the-badge&logo=internet-of-things&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=for-the-badge&logo=python&logoColor=white)
+![Cloud Computing](https://img.shields.io/badge/-Cloud%20Computing-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 ---
 
-### 🛠️ Tech Stack
+## 🔍 About Me
 
-```python
-# Davi Seemann - Data Engineer & Full-Stack Developer
+- 🎓 **Finalizing my degree** at **UFSC**, specializing in data-driven applications.
+- 🌍 Gained **international experience** at **Fraunhofer IPT** and **MobiLab Solutions GmbH**.
+- 💼 Expertise in **cloud-native data solutions**, **data engineering**, and **full-stack software development**.
 
+---
 
-class DaviSeemann:
-    def __init__(self):
-        self.name = "Davi Seemann"
-        self.role = "Data & ML Engineer"
+## 🛠️ **Tech Stack**
 
-    def languages(self):
-        return [
-            "Python",
-            "SQL",
-            "JavaScript (React.js)",
-            "C/C++"
-        ]
+```sql
+-- Extracting core skills in one-line query
+SELECT * FROM davi_tech_stack WHERE expertise_level = 'high';
+```
 
-    def data_engineering(self):
-        return [
-            "Azure Data Factory",
-            "Databricks",
-            "Spark (PySpark, SQL, Structured Streaming)",
-            "Delta Lake",
-            "Parquet",
-            "BigQuery",
-            "Kubernetes",
-            "Docker"
-        ]
-
-    def cloud(self):
-        return [
-            "Google Cloud Platform (GCP)",
-            "Azure Data Lake Storage",
-            "MQTT (Mosquitto)"
-        ]
-
-    def web_development(self):
-        return [
-            "FastAPI",
-            "React.js",
-            "Flask",
-            "MongoDB",
-            "GitHub"
-        ]
-
-    def other_tools(self):
-        return [
-            "DevOps",
-            "MLOps",
-            "SAP ERP",
-            "SAP Analytic Cloud"
-        ]
-
+```cmd
++---------------------+------------------------------------------------------+
+| Category            | Technologies                                         |
++---------------------+------------------------------------------------------+
+| Languages           | Python, SQL, JavaScript                              |
+| Frameworks          | FastAPI, React, Node.js                              |
+| Cloud Providers     | Azure, Google Cloud                                  |
+| DevOps Tools        | Kubernetes, Docker, GitHub Actions                   |
+| Data Engineering    | Databricks, Apache Spark, Delta Lake                 |
+| Data Processing     | Parquet                                              |
+| Databases           | MongoDB, PostgreSQL, SQL Server                      |
+| Streaming & Msg     | MQTT, Apache Kafka                                   |
++---------------------+------------------------------------------------------+
 ```
 
 ---
 
-### ⚙️ Current Focus
-🔍 Always on the lookout for opportunities to apply my skills in **data engineering**, **automation**, and **machine learning**. I'm passionate about leveraging new technologies to optimize industrial processes and enable **real-time data-driven solutions**.
+## 🌟 **What I’m Working On**
+I’m currently focused on learning and enhancing my expertise in:
+
+- 📈 **MLOps** and **Machine Learning Engineering**.
+- 🚀 **Real-Time Data Streaming** using **Apache Kafka** and **Azure**.
+
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka) ![Azure Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 
 ---
 
-### 📊 GitHub Stats
+## 🤝 **Let’s Connect & Collaborate!**
 
-![Davi's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=daviseemann&theme=radical)
-<!-- ![Davi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DaviSeemann&show_icons=true&theme=radical)
-![Davi's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DaviSeemann&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=daviseemann&layout=compact&theme=radical)
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=DaviSeemann&theme=radical) -->
+I’m open to exciting new opportunities in:
 
+- **Data Engineering**  
+- **Cloud Computing**  
+- **Machine Learning**  
+
+Feel free to reach out to discuss potential collaborations or just to connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daviseemann)  
+[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/daviseemann)  
+📧 [YourEmail@example.com](mailto:daviseemann@gmail.com)
 
 ---
 
-### 💡 Projects
-Check out my **[Repositories](https://github.com/DaviSeemann?tab=repositories)** to explore the projects I’ve worked on!
+### 🚀 Let’s turn data into action and shape the future together!
 
 ---
-
-### ⚡ Fun Fact
-- I am a **music enthusiast** and **guitar player**. I love to play and listen to music in my free time. 🎸
-- Also I am a amateur runner and I love to run in the early mornings. 🏃‍♂️
