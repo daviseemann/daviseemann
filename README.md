@@ -36,9 +36,6 @@ I'm always open to exciting new opportunities in **Data Engineering**, **Cloud C
 
 Feel free to reach out on **LinkedIn**, check out my **GitHub**, or drop me an email!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daviseemann)  
-[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/daviseemann)  
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@daviseemann)  
-📧 [daviseemann@gmail.com](mailto:daviseemann@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daviseemann)  [![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/daviseemann)  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@daviseemann)  [![Gmail](https://img.shields.io/badge/-daviseemann@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daviseemann@gmail.com)
 
 ### 🚀 Let’s transform data into actionable insights and shape the future together
