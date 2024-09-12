@@ -2,20 +2,17 @@
 
 I'm a **🌐 Data Engineer** with a passion for **🤖 Machine Learning** and **💻 Business Solutions**. I have gained international experience in **Brazil 🇧🇷** and **Germany 🇩🇪**, applying cutting-edge technologies to tackle complex real-world challenges in production environments.
 
----
 
 ## 🔍 About Me
 
 - 🎓 **Finalizing my Electrical Engineering degree** at **UFSC**, with a focus on **signal processing** and **data-driven applications**.
 - 🌍 Developed **international experience** working at **Fraunhofer IPT** and **MobiLab Solutions GmbH**, where I applied my skills in **data integration** and **smart production**.
 - 💼 Specializing in **cloud-native data solutions**, **data engineering**, and **machine learning applications** to deliver high-impact business results.
-
----
+- 🚀 Currently focused on **MLOps** and **real-time data streaming** to create innovative solutions that drive business growth.
 
 ## 🛠️ **Tech Stack**
 
-```sql
--- Extracting core skills in one-line query
+```Python
 SELECT * FROM davi_tech_stack WHERE expertise_level = 'high';
 
 +-----------------------+------------------------------------------------------+  
