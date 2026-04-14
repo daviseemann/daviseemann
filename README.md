@@ -2,21 +2,17 @@
 
 > *An engineer who grew up reading balance sheets before reading docs.*
 
-Cresci dentro de um escritório contábil. Aprendi sobre fluxo de caixa antes de aprender sobre fluxo de dados.
-Hoje faço as duas coisas — e essa combinação é o meu diferencial.
+I grew up inside an accounting firm. I learned about cash flow before data flow. Today I do both, and that combination is my edge.
 
-Sou **ML Engineer** com base forte em engenharia de dados e formação executiva em finanças.
-Meu trabalho está na interseção entre decisão de negócio e solução técnica: entendo o problema
-antes de abrir o IDE, e entrego modelos que fazem sentido fora do Jupyter também.
+I'm an **ML Engineer** with a strong foundation in data engineering and executive training in finance. My work sits at the intersection of business decision-making and technical execution. I understand the problem before I open the IDE, and I deliver models that make sense outside Jupyter too.
 
-Atualmente pesquisando **estimação de incerteza em deep learning** no GAMA/UFSC —
-porque um modelo confiante e errado é mais perigoso do que um modelo que sabe quando não sabe.
+Currently researching **uncertainty estimation in deep learning** at GAMA/UFSC. Because a confident wrong answer is more dangerous than an honest "I don't know."
 
 ---
 
-**🎓** MSc Machine Learning @ UFSC · MBA Finanças & Controladoria @ FGV · BSc Engenharia Elétrica @ UFSC \
-**📍** Florianópolis, BR · Open to Remote / Hybrid / On-site \
-**🌍** Experiência internacional: Fraunhofer IPT & MobiLab Solutions — Aachen & Cologne, 🇩🇪
+**🎓** MSc Machine Learning @ UFSC · MBA Finance & Controllership @ FGV · BSc Electrical Engineering @ UFSC \
+**📍** Florianópolis, BR \
+**🌍** International experience: Fraunhofer IPT & MobiLab Solutions, Aachen & Cologne 🇩🇪
 
 ---
 
@@ -69,8 +65,8 @@ toolbox = {
 
 | project | about |
 |---|---|
-| [turbofan-rul-prediction](https://github.com/daviseemann/turbofan-rul-prediction-cmapss) | RUL prediction on NASA C-MAPSS — deep learning for predictive maintenance |
-| [projeto-pld](https://github.com/daviseemann/projeto-pld) | Energy price monitoring interface for the Brazilian market |
+| [turbofan-rul-prediction](https://github.com/daviseemann/turbofan-rul-prediction-cmapss) | RUL prediction on NASA C-MAPSS. Deep learning for predictive maintenance. |
+| [projeto-pld](https://github.com/daviseemann/projeto-pld) | Energy price monitoring interface for the Brazilian market. |
 
 ---
 
