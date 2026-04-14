@@ -1,41 +1,112 @@
-# Hi, I'm Davi Seemann! 👋
+# Davi Seemann
 
-I'm a **🌐 Data Engineer** with a passion for **🤖 Machine Learning** and **💻 Business Solutions**. I have gained international experience in **Brazil 🇧🇷** and **Germany 🇩🇪**, applying cutting-edge technologies to tackle complex real-world challenges in production environments.
+> *An engineer who grew up reading balance sheets before reading docs.*
+> *I don't just build models — I understand why the business needs them.*
 
+---
 
-## 🔍 About Me
-
-- 🎓 **Finalizing my Electrical Engineering degree** at **UFSC**, with a focus on **signal processing** and **data-driven applications**.
-- 🌍 Developed **international experience** working at **Fraunhofer IPT** and **MobiLab Solutions GmbH**, where I applied my skills in **data integration** and **smart production**.
-- 💼 Specializing in **cloud-native data solutions**, **data engineering**, and **machine learning applications** to deliver high-impact business results.
-- 🚀 Currently focused on **MLOps** and **real-time data streaming** to create innovative solutions that drive business growth.
-
-## 🛠️ **Tech Stack**
-
-```Python
-SELECT * FROM davi_tech_stack WHERE expertise_level = 'high';
-
-+-----------------------+------------------------------------------------------+  
-| Category              | Technologies                                         |  
-+-----------------------+------------------------------------------------------+  
-| Languages             | Python, SQL, JavaScript                              |  
-| Frameworks            | FastAPI, React, Node.js                              |  
-| Cloud Providers       | Azure, Google Cloud                                  |  
-| DevOps Tools          | Kubernetes, Docker, GitHub Actions                   |  
-| Data Engineering      | Databricks, Apache Spark, Delta Lake                 |  
-| Data Processing       | Parquet                                              |  
-| Databases             | MongoDB, PostgreSQL, SQL Server                      |  
-| Streaming & Messaging | MQTT, Apache Kafka                                   |  
-+-----------------------+------------------------------------------------------+  
+```python
+from davi_seemann import about, research, experience, toolbox, projects
 ```
 
+---
 
-## 🤝 **Let’s Connect & Collaborate!**
+### `about`
 
-I'm always open to exciting new opportunities in **Data Engineering**, **Cloud Computing**, and **Machine Learning**. Whether you're looking for a collaborator or just want to connect, let's discuss how we can make an impact together.
+```python
+{
+    "role": "ML Engineer | Business Strategist",
+    "location": "Florianópolis, BR 🇧🇷",
+    "languages": ["pt-BR (native)", "en (C1)", "fr (basic)"],
+    "superpower": "I speak fluent boardroom AND fluent Python."
+}
+```
 
-Feel free to reach out on **LinkedIn**, check out my **GitHub**, or drop me an email!
+### `about.education`
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daviseemann)  [![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/daviseemann)  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@daviseemann)  [![Gmail](https://img.shields.io/badge/-daviseemann@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daviseemann@gmail.com)
+```
+| degree                              | institution | highlight                                              |
+|-------------------------------------|-------------|--------------------------------------------------------|
+| MSc Machine Learning                | UFSC        | Uncertainty Quantification in Deep Learning — GAMA Lab |
+| MBA Finance, Controllership & Audit | FGV         | Financial strategy, valuation & compliance             |
+| BSc Electrical Engineering          | UFSC        | IoT Solar Plant Monitoring — MQTT, Kubernetes, GCP     |
+```
 
-### 🚀 Let’s transform data into actionable insights and shape the future together
+---
+
+### `research`
+
+```python
+# How much should you trust a model's prediction?
+# A confident wrong answer is worse than an honest "I don't know."
+
+{
+    "topic": "Uncertainty Estimation & Selective Prediction in Deep Learning",
+    "lab": "GAMA — Grupo de Pesquisa em Aprendizado de Máquina e Aplicações",
+    "parent_lab": "LCS — Lab. de Comunicações, Processamento de Sinais e Aprendizado de Máquina",
+    "advisor": "Prof. Danilo Silva",
+    "funding": ["CAPES-PROEX", "FAPESC", "CNPq"],
+    "keywords": ["Uncertainty Quantification", "Selective Prediction",
+                 "Probabilistic Modeling", "Deep Learning"]
+}
+```
+
+> 🔗 [gama.ufsc.br](https://gama.ufsc.br) \
+> 🔗 [gama.ufsc.br/equipe/davi_seemann](https://gama.ufsc.br/equipe/davi_seemann/index.html) \
+> 🔗 [github.com/gama-ufsc](https://github.com/gama-ufsc)
+
+---
+
+### `experience`
+
+```
+| role                   | org                | 📍 | years | note                                                              |
+|------------------------|--------------------|-----|-------|-------------------------------------------------------------------|
+| Head of Technology     | Seecon Contadores  | 🇧🇷  | 7+    | Bridge between business & tech. Financial modeling & automation.  |
+| Junior Researcher      | Fraunhofer IPT     | 🇩🇪  | 7mo   | Physics-Informed ML for manufacturing. Full-stack (FastAPI+React).|
+| Data Engineer Intern   | MobiLab Solutions  | 🇩🇪  | 3mo   | End-to-end pipelines: Databricks, Spark, Azure.                  |
+| Engineering Intern     | Eletrobras         | 🇧🇷  | 5mo   | Analytics for power transmission. CAPEX/OPEX modeling.            |
+```
+
+---
+
+### `toolbox`
+
+```python
+{
+    "🧠 ml":        ["PyTorch", "TensorFlow", "Scikit-learn", "Deep Learning"],
+    "🔧 data_eng":  ["Databricks", "Spark", "Delta Lake", "Kafka"],
+    "☁️ cloud":     ["Azure", "GCP", "Docker", "Kubernetes"],
+    "💻 dev":       ["Python", "SQL", "JavaScript", "FastAPI", "React"],
+    "🗄️ databases": ["PostgreSQL", "MongoDB", "SQL Server"],
+    "📊 business":  ["Financial Modeling", "DCF/IRR/NPV", "FinOps"]
+}
+```
+
+---
+
+### `projects`
+
+```python
+[
+    {"name": "turbofan-rul-prediction",
+     "about": "Remaining Useful Life prediction — NASA C-MAPSS. Deep Learning meets predictive maintenance.",
+     "link": "github.com/daviseemann/turbofan-rul-prediction-cmapss"},
+
+    {"name": "projeto-pld",
+     "about": "Energy price monitoring interface for the Brazilian market.",
+     "link": "github.com/daviseemann/projeto-pld"},
+]
+```
+
+---
+
+```python
+print("Open to opportunities: Remote | Hybrid | On-site")
+```
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daviseemann)  [![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/daviseemann)  [![Substack](https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://deepsail.substack.com)  [![Gmail](https://img.shields.io/badge/-daviseemann@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daviseemann@gmail.com)
+
+---
+
+*"A model is only as good as the question it was built to answer."*
