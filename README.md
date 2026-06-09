@@ -10,7 +10,7 @@ In research at **GAMA/UFSC**, I study uncertainty estimation in deep learning: a
 
 ---
 
-**🎓** MSc Electrical Engineering @ UFSC — ML & uncertainty estimation · MBA Management & Finance @ FGV · BSc Electrical Engineering @ UFSC \
+**🎓** MSc Electrical Engineering @ UFSC — ML & uncertainty estimation · MBA Finance, Controllership & Auditing @ FGV · BSc Electrical Engineering @ UFSC \
 **📍** Florianópolis, Brazil · International experience: Fraunhofer IPT & MobiLab Solutions 🇩🇪
 
 ---
